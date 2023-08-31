@@ -1,0 +1,28 @@
+.body{
+     display:flex;
+     flex-direction: column;
+     align-items: center;
+     justify-content: center;
+ }
+
+.formatoMapa 
+{
+//   display:flex; 
+  grid-template-columns: auto;
+  padding: auto 100px auto 100px;
+  margin: 10px 0px 20px 100px;   
+  flex-wrap: wrap;
+  margin:20px 0px;
+  height: auto;
+  width: auto;
+}
+.formatoFormulario 
+{
+//   display: flex;
+  flex-direction: row;
+  margin: 100px 0px 0px 0px; 
+  grid-template-columns: auto;
+  padding: 5px 10px; 
+  justify-content: center;
+  flex-wrap: wrap;
+}

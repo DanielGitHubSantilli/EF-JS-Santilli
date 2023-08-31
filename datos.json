@@ -1,0 +1,28 @@
+{
+"ProdLimpieza": [
+    {
+    "codigo":"12345",
+    "descripcion":"Detergente",
+    "capacidad": "300ml",
+    "precio": "1000",
+    "stock": "300",
+    "precioIva": "1210"
+    },
+    {
+    "codigo":"11111",
+    "descripcion":"Lavandina",
+    "capacidad": "500ml",
+    "precio": "800",
+    "stock": "200",
+    "precioIva": "968"
+    },
+    {
+    "codigo":"98765",
+    "descripcion":"Suavizante",
+    "capacidad": "5000ml",
+    "precio": "3500",
+    "stock": "200",
+    "precioIva": "4550"
+    }
+    ]
+}
